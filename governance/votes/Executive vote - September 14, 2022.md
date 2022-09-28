@@ -1,13 +1,13 @@
 ---
 title: Template - [Executive Vote] TEST BLOCK360, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
-summary: New DAI budget streams for the Oracles and DAI Foundation Core Units, funding for two Special Purpose Funds, updating the IPFS hash of the HVBank legal agreement, cleanup of the former Growth Core Unit MKR vesting stream.
+summary: Block360 New DAI budget streams for the Oracles and DAI Foundation Core Units, funding for two Special Purpose Funds, updating the IPFS hash of the HVBank legal agreement, cleanup of the former Growth Core Unit MKR vesting stream.
 date: 2022-09-14T00:00:00.000Z
 address: "0xdA607F191B2D9a76Bc7648a1a62B43bb721668e2"
 ---
 
-# [Executive Proposal] TEST BLOCK360, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
+# [Executive Proposal] Block360 TEST BLOCK360, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+Block360 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 

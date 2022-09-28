@@ -1,13 +1,13 @@
 ---
 title: Template - [Executive Vote] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
-summary: Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
+summary: Block360 Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
 date: 2022-09-28T00:00:00.000Z
 address: "$spell_address"
-
 ---
-# [Executive Proposal] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+# [Executive Proposal] Block360 Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+
+Block360 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
@@ -16,6 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+
 - The address for PROXY_ACTIONS_END_CROPPER will be updated to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af).
 - The Starknet bridge deposit limit will be increased from 50 DAI to **1,000 DAI**.
 - A total of **986.49** MKR will be transferred to two Core Units, as detailed below.

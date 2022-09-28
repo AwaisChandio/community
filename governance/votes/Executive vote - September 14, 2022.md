@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Core Unit Budget Streams, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
+title: Template - [Executive Vote] TEST BLOCK360, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
 summary: New DAI budget streams for the Oracles and DAI Foundation Core Units, funding for two Special Purpose Funds, updating the IPFS hash of the HVBank legal agreement, cleanup of the former Growth Core Unit MKR vesting stream.
 date: 2022-09-14T00:00:00.000Z
 address: "0xdA607F191B2D9a76Bc7648a1a62B43bb721668e2"
-
 ---
-# [Executive Proposal] Core Unit Budget Streams, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
+
+# [Executive Proposal] TEST BLOCK360, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,6 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+
 - As per their successful budget requests, a total of **3,004,859** DAI will be streamed to two Core Units, as detailed below.
 - A total of **80,000 DAI** will be transferred to two Special Purpose Fund multisig wallets, as detailed below.
 - MKR vesting stream clean-up, as detailed below.

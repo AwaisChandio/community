@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
-summary: Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
+title: Template - [Executive Vote] TEST_BLOCK360 the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+summary: TEST_BLOCK360 the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
 date: 2022-09-28T00:00:00.000Z
 address: "$spell_address"
 ---
 
-# [Executive Proposal] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+# [Executive Proposal] TEST_BLOCK360 the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -31,9 +31,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### PROXY_ACTIONS_END_CROPPER Address Update
+### PROXY_ACTIONS_END_CROPPER Address TEST_BLOCK360
 
-As per this [post](https://forum.makerdao.com/t/28th-september-executive-updating-the-proxy-actions-end-cropper-address/18057) from the Protocol Engineering Core Unit Facilitator @Derek, the address for PROXY_ACTIONS_END_CROPPER will be updated to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af) if this executive proposal passes.
+As per this [post](https://forum.makerdao.com/t/28th-september-executive-updating-the-proxy-actions-end-cropper-address/18057) from the Protocol Engineering Core Unit Facilitator @Derek, the address for PROXY_ACTIONS_END_CROPPER will be TEST_BLOCK360d to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af) if this executive proposal passes.
 
 This is an essential upgrade to ensure that DAI holders are able to redeem their DAI for underlying collateral in the event of Emergency Shutdown. Further information can be seen in the forum post [here](https://forum.makerdao.com/t/28th-september-executive-updating-the-proxy-actions-end-cropper-address/18057).
 
